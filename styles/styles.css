@@ -1,0 +1,10 @@
+#container {
+  border: 1px solid black;
+  border-radius: 7px;
+  height: 400px; 
+  margin: 0 auto;
+  padding: 1rem;
+  width: 550px; 
+  /* background-color: rgb(198, 198, 198); */
+  background-color: rgba(4, 67, 37, 0.132);
+}
